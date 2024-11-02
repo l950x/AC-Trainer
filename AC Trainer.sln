@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AC Trainer", "AC Trainer\AC Trainer.csproj", "{13FAE150-8465-4174-9F66-48D868E7FD8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13FAE150-8465-4174-9F66-48D868E7FD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FAE150-8465-4174-9F66-48D868E7FD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FAE150-8465-4174-9F66-48D868E7FD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FAE150-8465-4174-9F66-48D868E7FD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39066B98-54A2-44BA-BE0E-7480627625C0}
+	EndGlobalSection
+EndGlobal
